@@ -1,5 +1,5 @@
-let button = document.querySelector("#changer");
-let box = document.querySelector("_________");
+let button = document.querySelector("#Change Color");
+let box = document.querySelector("#colorBox");
 
 button.addEventListener("click", function() {
   // code to change the color goes here
