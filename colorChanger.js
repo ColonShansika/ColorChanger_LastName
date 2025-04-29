@@ -5,5 +5,5 @@ button.addEventListener("click", function() {
   // code to change the color goes here
 });
 
-box.style.backgroundColor = "_________";
+box.style.backgroundColor = "Pink";
 
